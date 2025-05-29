@@ -75,6 +75,9 @@ npm run dev
 4. 构建生产版本
 ```bash
 npm run build
+git add .
+git commit -m "修复 Vercel 404，设置 base 路径"
+git push
 ```
 
 ## 部署说明
